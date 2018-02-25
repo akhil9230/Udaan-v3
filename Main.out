@@ -1,0 +1,37 @@
+\BOOKMARK [1][-]{chapter*.4}{List of figures}{}% 1
+\BOOKMARK [1][-]{chapter*.5}{List of Tables}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Weight Estimation}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Novelty Features}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Fast}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Compact}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{Amphibious}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.4}{Payload and Surveillance}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.5}{Self Rechargeable}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Mission Profile}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.4}{Estimated Data}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.4.1}{Dimensions}{section.1.4}% 13
+\BOOKMARK [2][-]{subsection.1.4.2}{Common Characteristics}{section.1.4}% 14
+\BOOKMARK [2][-]{subsection.1.4.3}{Weight Estimate}{section.1.4}% 15
+\BOOKMARK [0][-]{chapter.2}{Second Weight Estimation}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Weight Estimate}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.2}{Thrust Calculation}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{Sample Calculation}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.2}{Motor Specification}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.3}{Formula used for thrust calculation}{section.2.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.4}{Battery Specification}{section.2.2}% 22
+\BOOKMARK [1][-]{section.2.3}{Procedure}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.4}{Conclusion}{chapter.2}% 24
+\BOOKMARK [0][-]{chapter.3}{Propeller Design}{}% 25
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.2}{Blade Element Subdivision}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.3}{Inflow Factors}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.4}{Different Parameters}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.4.1}{Coefficient of Thrust}{section.3.4}% 30
+\BOOKMARK [2][-]{subsection.3.4.2}{Coefficient of Power}{section.3.4}% 31
+\BOOKMARK [2][-]{subsection.3.4.3}{Coefficient of dynamic thrust}{section.3.4}% 32
+\BOOKMARK [2][-]{subsection.3.4.4}{Efficiency v/s Advance Ratio Graph}{section.3.4}% 33
+\BOOKMARK [2][-]{subsection.3.4.5}{Coefficient of dynamic power v/s Advance ration Graph}{section.3.4}% 34
+\BOOKMARK [1][-]{section.3.5}{Sample Calculation}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.6}{Conclusion}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.7}{References}{chapter.3}% 37
